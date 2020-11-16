@@ -2,7 +2,7 @@
 
 僕のサイト→[トマシープが学ぶ](https://bibinbaleo.hatenablog.com/).
 
-## Commands
+## テスト
 
 * `mkdocs new [dir-name]` - Create a new project.
 * `mkdocs serve` - Start the live-reloading docs server.
