@@ -5,7 +5,7 @@
 on:
   push:
     branches:
-      - main
+      - master
 jobs:
   deploy:
     runs-on: ubuntu-latest
@@ -43,5 +43,5 @@ jobs:
           external_repository: bibinba/Mkdocs_GithubPages
           # publish_branch を指定しない場合、
           # gh-pages ブランチにデプロイされます。
-          publish_branch: main
+          publish_branch: master
           publish_dir: ./site
